@@ -17,6 +17,7 @@ Azure had simply been a great cloud provider, in terms of, services, innovation,
  - https://gist.github.com/abhi-bhatra/2bf909f1df5e8667fd8b10053c845a38
 
 5. Let us understand above code:
+
     a. Importing Azure SDK client
    
     b. Creating a function called completion, this function we will be exporting in index file.
