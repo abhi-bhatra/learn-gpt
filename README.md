@@ -18,8 +18,13 @@ Azure had simply been a great cloud provider, in terms of, services, innovation,
 
 5. Let us understand above code:
     a. Importing Azure SDK client
+   
     b. Creating a function called completion, this function we will be exporting in index file.
+
     c. Initialise the API client using Azure OpenAI key and endpoint.
+
     d. Now, let’s use getChatCompletion method from Azure OpenAI sdk, this method is used to initialize how GPT model should behave on base of prompt.
+
     e. Learn more about how-to-write prompts at: https://github.com/abhi-bhatra/generative-ai-for-beginners/tree/main/04-prompt-engineering-fundamentals#complex-prompt
-    f. Currently, the prompt is fixed, as for demo purpose: What is Kubernets ?
+
+     f. Currently, the prompt is fixed, as for demo purpose: What is Kubernets ?
